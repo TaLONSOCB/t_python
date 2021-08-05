@@ -1,1 +1,1 @@
-printa ("isso é um teste")
+print ("isso é um teste")
